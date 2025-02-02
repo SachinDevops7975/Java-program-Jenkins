@@ -6,5 +6,6 @@ public class Main {
         System.out.println("This is a java program fo jenkins");
         System.out.println("Output for java Program");
         System.out.println(new Date());
+        System.out.println("Hello");
     }
 }
